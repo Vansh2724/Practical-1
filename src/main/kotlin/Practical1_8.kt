@@ -1,7 +1,6 @@
 //import java.util.*
 //
 //fun main(){
-//    println("21012011069 !! bhoomi patel")
 //    var arr1= arrayOf(15,12,10,20,13)
 //    print("Array using arrayOf() method:")
 //    println(Arrays.deepToString(arr1))

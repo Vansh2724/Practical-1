@@ -10,6 +10,7 @@ fun main() {
     }
     fun div(a: Int , b: Int ): Int {
         return a / b
+
     }
     print("enter the first number:- ")
     var x = readln().toInt()
